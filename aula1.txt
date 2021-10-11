@@ -4,3 +4,4 @@ Aprendendo esta ferramenta
 Acrescentando linha com a opção "Edit"
 Primeira vez usando o github 
 Acrescentando outra linha a opção "Edit"
+Falando sobre issues
